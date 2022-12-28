@@ -11,9 +11,15 @@ Include your ER diagram here
 
 ### STEP 1:
 
+Then clone it. Create myapp
+
 ### STEP 2:
 
+Then run the webserver,create the super user,after that create the 10 employee id
+
 ### STEP 3:
+
+Then add the screenshot of employee id in output
 
 Write your own steps
 
