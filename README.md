@@ -23,7 +23,13 @@ Include your code here
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+### Employee Id Details:
+
+![Employee_Id_Details](./image/employeedetails.jpeg)
+
+### Primary Key Error:
+
+![Primary_Key_Error](./image/Error.jpeg)
 
 
 ## RESULT
