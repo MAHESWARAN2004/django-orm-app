@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+![Employee_Id_Details](./image/Employee.png)
 
 ## DESIGN STEPS
 
@@ -54,7 +54,7 @@ class employeeAdmin(admin.ModelAdmin):
 
 from django.contrib import admin
 from .models import employee,employeeAdmin
-# Register your models here.
+Register your models here.
 admin.site.register(employee,employeeAdmin)
 
 
@@ -70,3 +70,7 @@ admin.site.register(employee,employeeAdmin)
 
 
 ## RESULT
+
+A Django application to store and retrieve data from a database using Object Relational Mapping(ORM)is developed.
+
+
